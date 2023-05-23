@@ -1,4 +1,4 @@
-<h1>Tailwind</h1>
+<h1>JavaScript</h1>
 
 > Status: In Progress ⚠️
 
@@ -21,7 +21,7 @@
 
 ## Links
 
-- Live Site URL: ()
+- Live Site URL: (https://robotron2000-alpha-olive.vercel.app/)
 
 ## Contact
 
